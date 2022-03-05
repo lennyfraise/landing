@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&family=Roboto:wght@300;400;500;700&family=Smooch+Sans:wght@100;300;400;500;700&display=swap");
+@import url("components/banner.css");
+@import url("components/btn_blue.css");
+@import url("components/card.css");
+@import url("components/btn_grey.css");
+
+
+body {
+   font-family: 'Montserrat' , serif;
+   font-size: 18px;
+   margin: 0px;
+   background: beige;
+
+} 
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a.hover {
+  opacity: 80%;
